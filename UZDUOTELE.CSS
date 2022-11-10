@@ -1,0 +1,29 @@
+
+.logo {
+  
+   background-color: grey;
+   padding: 18px;
+   margin: 20px;
+   margin-bottom: 10px;
+   
+}
+.pirmas {
+   display: flex;
+
+}
+ .pirmokaire {
+   position: absolute;
+   
+
+ }
+ .pirmodesine {
+   background-color: grey;
+   text-align: center;
+   width: 60%;
+   margin: 30px;
+   padding: 36px;
+   position: absolute;
+   right: 0;
+ }
+ 
+
