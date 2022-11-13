@@ -1,0 +1,75 @@
+
+.logo {
+   background-color: grey;
+   padding: 18px;
+   margin: 20px;
+   margin-bottom: 10px;
+   display: flex;
+   width: 95%;
+   margin-left: 20px;
+   margin-right: 25px;
+}
+
+.pirmas {
+   display: flex;
+   flex-direction: row;
+   margin: 20px;
+   flex-wrap: wrap;
+   height: 600px;
+  
+}
+
+.pirmokaire {
+    background-color: white;
+    /* width: 120px; */
+    width: 30%;
+    justify-content: space-between;
+    text-align: center;
+   
+}
+.pirmodesine {
+    background-color:white;
+    /* width: 620px; */
+    flex-direction: row;
+    width: 70%;
+    text-align: center;
+    
+    
+    
+}
+
+ .header {
+    background-color:grey;
+    height: 180px;
+    font-size: larger;
+   margin-bottom: 20px;
+    padding: 20px;
+    
+  
+
+ }
+
+ .antras {
+  background-color: grey;
+  height: 420px;
+  padding: 18px;
+  margin-bottom: 20px;
+ }
+
+ h2 {
+font-size: 24px;
+font-weight: 600;
+ }
+ 
+ .foot {
+   background-color: grey;
+   text-align: center;
+   height: 50px;
+   width: 100%;
+   
+ }
+.pirmokaire h1 {
+font-size: 30px;
+padding-bottom: 15px;
+}
+
